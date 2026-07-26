@@ -1,8 +1,17 @@
 aid: ennoblecare
-name: Ennoblecare
-description: 'Ennoblecare is a company surfaced as a portfolio company of norwest-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead
-  awaiting the enrichment pipeline.'
+name: Ennoble Care
+description: >-
+  Ennoble Care is a physician-led home-based healthcare provider delivering
+  primary care, palliative care, and hospice care to seniors in the comfort of
+  their own homes. Founded to bring the doctor back to the housecall, the company
+  offers in-home primary care and chronic disease management, post-acute care
+  transitions, advance care planning, bereavement services, and respite care
+  across 13 states and Washington, DC (Alabama, Florida, Georgia, Kansas,
+  Maryland, Missouri, New Jersey, New York, Oklahoma, Pennsylvania, Texas, and
+  Virginia). Ennoble Care is a portfolio company of Norwest Venture Partners.
+  This profile has been enriched by the API Evangelist network; Ennoble Care is a
+  healthcare-services company and publishes no public developer API, SDKs, or
+  developer portal at this time.
 url: https://raw.githubusercontent.com/api-evangelist/ennoblecare/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +19,30 @@ x-backed-by:
 - norwest-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://ennoblecare.com/wp-content/uploads/2023/06/logo.png
 tags:
 - Company
-- Unknown
+- Healthcare
+- Senior Care
+- Home Health
+- Primary Care
+- Palliative Care
+- Hospice
+- Health Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,27 @@ maintainers:
 common:
 - type: Website
   url: https://ennoblecare.com
+- type: About
+  url: https://ennoblecare.com/about-us/
+- type: Blog
+  url: https://ennoblecare.com/blogs/
+- type: Support
+  url: https://ennoblecare.com/contact-us/
+- type: Login
+  url: https://portal.ennoblecare.com/
+- type: Careers
+  url: https://boards.greenhouse.io/ennoblecare
+- type: PrivacyPolicy
+  url: https://ennoblecare.com/privacy-policy/
+- type: TermsOfService
+  name: SMS Terms and Conditions
+  url: https://ennoblecare.com/sms-terms-and-conditions/
+- type: LLMsTxt
+  url: llms/ennoblecare-llms.txt
+- type: DomainSecurity
+  url: security/ennoblecare-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
