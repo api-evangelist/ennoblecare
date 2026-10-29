@@ -1,4 +1,4 @@
-# Ennoblecare
+# Ennoble Care
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ennoblecare is a company surfaced as a portfolio company of norwest-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.
+Ennoble Care is a physician-led home-based healthcare provider delivering primary care, palliative care, and hospice care to seniors in the comfort of their own homes. Founded to bring the doctor back to the housecall, the company offers in-home primary care and chronic disease management, post-acute care transitions, advance care planning, bereavement services, and respite care across 13 states and Washington, DC (Alabama, Florida, Georgia, Kansas, Maryland, Missouri, New Jersey, New York, Oklahoma, Pennsylvania, Texas, and Virginia). Ennoble Care is a portfolio company of Norwest Venture Partners. This profile has been enriched by the API Evangelist network; Ennoble Care is a healthcare-services company and publishes no public developer API, SDKs, or developer portal at this time.
 
-Backed by: norwest-venture-partners — https://ennoblecare.com
+**Areas:** Company · Healthcare · Senior Care · Home Health · Primary Care · Palliative Care · Hospice · Health Services
+
+## Ennoble Care on APIs.io
+
+Everything profiled for Ennoble Care is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ennoblecare/](https://apis.io/providers/ennoblecare/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ennoblecare Domain Security](https://apis.io/security/ennoblecare/ennoblecare-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ennoblecare.com)
+- [Support](https://ennoblecare.com/contact-us/)
+- [Blog](https://ennoblecare.com/blogs/)
+- [Terms of service](https://ennoblecare.com/sms-terms-and-conditions/)
+- [Privacy policy](https://ennoblecare.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 12.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ennoblecare/](https://apis.io/providers/ennoblecare/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ennoble Care: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ennoblecare/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
